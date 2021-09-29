@@ -70,7 +70,7 @@ describe('My ag-Grid tests', () => {
             .find(`[col-id="make"]`)
             .dblclick()
             .wait(500)
-            .type("hello little fishy{enter}");
+            .type("hello friend{enter}");
     });
 
 })
